@@ -12,4 +12,4 @@ What things you need to install the software and how to install them
 
 * [XAMPP](https://www.apachefriends.org/download.html) - XAMPP is an easy to install Apache distribution containing MariaDB, PHP, and Perl
 
-* [Composer](https://getcomposer.org/download)- For installing and run the laravel projects.
+* [Composer](https://getcomposer.org/download)- For installing and running the laravel projects.
