@@ -8,31 +8,31 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-These are the prerequisites for running the application
+These are the prerequisites for running the application.
 
-* [XAMPP](https://www.apachefriends.org/download.html) - XAMPP is an easy to install Apache distribution containing MariaDB, PHP, and Perl
+* [XAMPP](https://www.apachefriends.org/download.html) - XAMPP is an easy to install Apache distribution containing MariaDB, PHP, and Perl.
 
 * [Composer](https://getcomposer.org/download)- For installing and running the laravel projects.
 
 ### Installing
 
-* Downlaod and extract the project files
-* Create a database
-* Rename .env.example file to .env
-* Add database name in .env file
-* Migrate the tables
+* Downlaod and extract the project files.
+* Create a database.
+* Rename .env.example file to .env.
+* Add database name in .env file.
+* Migrate the tables.
 ```
 php artisan migrate
 ```
-* Install composer to the project folder
+* Install composer to the project folder.
 ```
 composer install
 ```
-*  Set the APP_KEY value in your .env file
+*  Set the APP_KEY value in your .env file.
 ```
-php artisan key:generate
+php artisan key:generate.
 ```
-* Run the application
+* Run the application.
 ```
 php artisan serve
 ```
