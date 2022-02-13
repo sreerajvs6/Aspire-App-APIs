@@ -18,7 +18,7 @@ class CreatePaymentSchedulesTable extends Migration
             $table->integer('cstmrid'); 
             $table->integer('loanid');
             $table->string('repay_amount',255);
-            $table->integer('schedule_no',255);
+            $table->integer('schedule_no');
             $table->string('schedule_date',255);
             $table->string('status',255);
             $table->timestamps();
