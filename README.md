@@ -40,3 +40,13 @@ php artisan serve
 ### API Documentation
 
 * https://github.com/sreerajvs6/Aspire-App-APIs/tree/main/documentation
+
+## Built With
+
+* [Laravel](https://laravel.com/) - The web framework used
+* [PHP](https://www.php.net) - Technology used
+
+## Authors
+
+* [Sreeraj VS](https://github.com/sreerajvs6)
+
