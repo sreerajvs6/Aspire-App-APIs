@@ -14,6 +14,8 @@ These are the prerequisites for running the application.
 
 * [Composer](https://getcomposer.org/download)- For installing and running the laravel projects.
 
+* [Postman](https://www.postman.com/)- For checking and collecting the API results.
+
 ### Installing
 
 * Downlaod and extract the project files.
